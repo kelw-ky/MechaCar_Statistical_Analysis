@@ -5,8 +5,8 @@
 The following analysis was done using "MechaCar_mpg.csv" and "Suspension_Coil.csv". Example of part of the data is shown below. 
 
 <p float="left">
-    <img src="/Resources/mechaCar_mpg.png" width="150" />
-    <img src="/Resources/suspension_coil.png" width="150" />
+    <img src="/Resources/mechaCar_mpg.png"/>
+    <img src="/Resources/suspension_coil.png"/>
 </p>
 
 
@@ -23,9 +23,11 @@ When looking at the Total Summary chart, the variance shows 62.29356 pounds, whi
 170.2861224 respectively. Lot1 and Lot2 would meet the design specification as it is under 100 but since Lot3 is above the 100 pounds, they would not meet the specification. Only Lot1 and Lot2 should use this design but Lot3 will need a different one. 
 
 <b>Total Summary</b>
+
 ![Total Summary](/Resources/total_summary.png)
 
 <b>Lot Summary</b>
+
 ![Lot Summary](/Resources/lot_summary.png)
 
 
