@@ -46,11 +46,13 @@ Below, we can see the t.test for each of the lots. The p-value of lot1, lot2, an
 
 The metrics would want to test would be the Selling Price, Gas Efficiency and City Types (Urban, Suburban, and Rural). 
 
+
 |  Metrics            |  Variable      |
 | ------------------- | -------------- |
 |  Horse Power/Engine |  Independent   |
 |  Fuel Efficiency    |  Dependent     |
 |  City Types         |  Independent   |
+
 
 <u>The Null and Alternative Hypothesis</u>
 
